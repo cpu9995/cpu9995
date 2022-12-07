@@ -83,7 +83,7 @@
 <h2 align="center">Discord Profile</h2><br>
   <p align="center">
     <a href="https://discord.gg/vanished">
-        <img title="CPU server discord" alt="CPU's discord" src="https://discord.c99.nl/widget/theme-5/421375317861466122.png"/>
+        <img title="CPU server discord" alt="CPU's discord" src="https://discord.c99.nl/widget/theme-4/421375317861466122.png"/>
     </a>
 </p>
 
