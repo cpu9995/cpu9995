@@ -40,10 +40,6 @@
 <h2 align="center">Contact me</h2>
 
 
-- 👋 Hello I'am CPU A Full Stack Developer
-
-- 🎓Advanced Master in Programming / Graduated at **Bangkok University**
-
 - 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
 
 - 💬 Discord [cpu#9995](https://discord.com/users/421375317861466122) | [Discord Server](https://discord.gg/vanished)
