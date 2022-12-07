@@ -1,5 +1,5 @@
-<h1 align="left">Hi 👋, I'm CPU</h1>
-<h3 align="center">A passionate backend and frontend developer from the United States</h3>
+<h1 align="center">Hi 👋, I'm CPU</h1>
+<h3 align="left">A passionate backend and frontend developer from the United States</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cpu9995&label=Profile%20views&color=0e75b6&style=flat" alt="cpu9995" /> </p>
 
