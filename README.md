@@ -1,92 +1,44 @@
-<h2 align="center">
+<h1 align="center">Hi 👋, I'm fzee.</h1>
+<h3 align="center">A passionate Python developer from the United States.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=cpu9995&label=Profile%20views&color=0e75b6&style=flat" alt="cpu9995" /> </p>
 
-<p align="center">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cpu9995" alt="cpu9995" /></a> </p>
 
+<p align="left"> <a href="https://twitter.com/xenclicker" target="blank"><img src="https://img.shields.io/twitter/follow/xenclicker?logo=twitter&style=for-the-badge" alt="xenclicker" /></a> </p>
 
+- 🔭 I’m currently working on [ServerGuardian](https://fzhub.com)
 
+- 🌱 I’m currently learning **Advanced Python Security and Password Protection**
 
+- 👯 I’m looking to collaborate on [Any Python Discord Bots](https://fzhub.com)
 
+- 🤝 I’m looking for help with [Python Music Bots](https://fzhub.com)
 
-<p align="center">
+- 👨‍💻 All of my projects are available at [https://fzhub.com](https://fzhub.com)
 
-[![Website Badge](https://img.shields.io/badge/Website-VANISHED-blue?style=for-the-badge)](https://discord.gg/vanished)
-  
+- 📝 I regularly write articles on [https://fzhub.com](https://fzhub.com)
 
+- 💬 Ask me about **Discord Bots, Python, or Scripting**
 
+- 📫 How to reach me **xenclicker@gmail.com**
 
+- 📄 Know about my experiences [https://fzhub.com](https://fzhub.com)
 
-<p align="center">
-    <a href="https://discord.com/users/421375317861466122">
-   <img alt="Discord" src="https://img.shields.io/badge/Discord-cpu%239995-7289DA?style=for-the-badge&logo=discord&logoColor=7289DA&logoWidth=10&labelColor=000'"></a>  
-  <a href="https://github.com/cpu9995">
-   <img alt="Github" src="https://img.shields.io/github/followers/cpu9995?color=7289DA&logo=github&label=Followers&style=for-the-badge&logoWidth=10&labelColor=000'"></a>   
-  
-  
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Schweinepriester&column=8&margin-w=10&margin-h=0&no-bg=true&no-frame=true&theme=dark_dimmed)](https://github.com/ryo-ma)
+- ⚡ Fun fact **I started programming in 2020**
 
-  ----
-
-
-<p align="center">
-<img src="https://readme-spotify-status-liart.vercel.app/api/run-spotify-status" alt="Your alt what" width="300" align/>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/xenclicker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="xenclicker" height="30" width="40" /></a>
+<a href="https://instagram.com/dylan_johnston03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dylan_johnston03" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/xenclicker" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="xenclicker" height="30" width="40" /></a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-<h2 align="center">Programming languages that i mainly use.</h2>
-<p align="center">
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
-  <img alt="C++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
-  <img alt="Mongo" src="https://img.shields.io/badge/-MongoDB-090909?style=for-the-badge&logo=MongoDB&logoColor=00648B"></a>  
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cpu9995&show_icons=true&locale=en&layout=compact" alt="cpu9995" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cpu9995&show_icons=true&locale=en" alt="cpu9995" /></p>
 
-<h2 align="center">My github profile stastictics.</h2>
-<p align = "center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=cpu9995&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="cpu9995" width = "60%"/>
-<!--<img src="https://github-profile-trophy.vercel.app/?username=cpu9995&theme=onedadarkrk&no-frame=true&no-bg=true" alt = "cpu9995" height = 150/> -->
-</p>
-
-
-<h2 align="center">
-
-![cpu9995's GitHub stats](https://github-readme-stats.vercel.app/api?username=cpu9995&show_icons=true&theme=transparent)
-  
-
-
-
-<h2 align="center">Contact me</h2>
-
-
-- 📌 Information about all Products [Information](https://discord.gg/vanished)
-
-- 👋 Hello I'm CPU A Full Stack Developer
-
-- 🎓Bachelors in Programming / Masters **In Progress**
-
-- 🛒 Product `PRIVATE CHEAT , SOURCE CODE , SPOOFER OTHER JOIN DISCORD`
-
-- 💬 Discord [CPU#9995](https://discord.com/users/421375317861466122) | [Discord Server](https://discord.gg/vanished)
-
-
-</pre><br>
-
-<h2 align="center">Social media</h2>
-
-<h2 align="center"</h2>
-
-<a target="_blank" href="https://discord.com/users/421375317861466122"><img alt="Discord" src="https://img.shields.io/badge/Discord%21-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-[![YouTube Channel](https://img.shields.io/badge/-YouTube-%23282a36?style=for-the-badge&logoColor=ff0000&logo=YouTube)](https://discord.gg/vanished)
-<a target="_blank" href="https://twitter.com/xenclicker"><img alt="Twitter" src="https://img.shields.io/badge/@xenclicker-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"/></a>
-
-
-<h2 align="center">Discord Profile</h2><br>
-  <p align="center">
-    <a href="https://discord.gg/vanished">
-        <img title="CPU server discord" alt="CPU's discord" src="https://discord.c99.nl/widget/theme-4/421375317861466122.png"/>
-    </a>
-</p>
-
-</p>
-
-<h2 align="center"> Copyright © 2020 - 2022  
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cpu9995&" alt="cpu9995" /></p>
