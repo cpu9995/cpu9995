@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/xenclicker" target="blank"><img src="https://img.shields.io/twitter/follow/xenclicker?logo=twitter&style=for-the-badge" alt="xenclicker" /></a> </p>
 
-- 🔭 I’m currently working on [ServerGuardian]([https://fzhub.com](https://github.com/cpu9995/ServerGuardian))
+- 🔭 I’m currently working on [ServerGuardian](https://github.com/cpu9995/ServerGuardian)
 
 - 🌱 I’m currently learning **Advanced Python Security and Password Protection**
 
